@@ -1,0 +1,7 @@
+{
+  "name": "text-analyzer-lab7",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "gtest"
+  ]
+}

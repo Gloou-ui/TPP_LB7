@@ -1,0 +1,12 @@
+# ninja log v7
+42	1150	8155313802126000	CMakeFiles/bad_exception_demo.dir/src/BadExceptions.cpp.obj	8596bc9797f390ea
+21	1955	8155313801905561	CMakeFiles/text_analyzer.dir/src/PolynomialSolver.cpp.obj	93e75789961c38c
+35	1975	8155313802040880	CMakeFiles/text_analyzer_demo.dir/src/main.cpp.obj	49033bfeeeb999d5
+1956	2340	8155313821251937	bad_exception_demo.exe	a2bf09d2aa1b09f1
+30	2741	8155313801990899	CMakeFiles/text_analyzer.dir/src/TextAnalyzer.cpp.obj	6551714dae94a61c
+2741	3207	8155313829109330	libtext_analyzer.a	22d01b6fd20a1067
+3207	3552	8155313833772712	text_analyzer_demo.exe	1dd925d0870d8bd1
+1153	3864	8155313813220807	CMakeFiles/text_analyzer_tests.dir/tests/TextAnalyzerTests.cpp.obj	1d06d29bda4bfd10
+3864	4488	8155313846467237	text_analyzer_tests.exe	da928f9bf8e6872
+3864	4488	8155313846467237	text_analyzer_tests[1]_tests.cmake	da928f9bf8e6872
+3864	4488	8155313846467237	D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests[1]_tests.cmake	da928f9bf8e6872

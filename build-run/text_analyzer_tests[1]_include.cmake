@@ -1,0 +1,5 @@
+if(EXISTS "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests[1]_tests.cmake")
+  include("D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests[1]_tests.cmake")
+else()
+  add_test(text_analyzer_tests_NOT_BUILT text_analyzer_tests_NOT_BUILT)
+endif()

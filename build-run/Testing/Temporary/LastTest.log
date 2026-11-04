@@ -1,0 +1,408 @@
+Start testing: Nov 04 23:46 Գ������ (����)
+----------------------------------------------------------
+1/15 Testing: TextAnalyzerTest.CountsWordsAndNormalizesLatinAndUkrainianCase
+1/15 Test: TextAnalyzerTest.CountsWordsAndNormalizesLatinAndUkrainianCase
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.CountsWordsAndNormalizesLatinAndUkrainianCase" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.CountsWordsAndNormalizesLatinAndUkrainianCase" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.CountsWordsAndNormalizesLatinAndUkrainianCase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.CountsWordsAndNormalizesLatinAndUkrainianCase
+[       OK ] TextAnalyzerTest.CountsWordsAndNormalizesLatinAndUkrainianCase (0 ms)
+[----------] 1 test from TextAnalyzerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.CountsWordsAndNormalizesLatinAndUkrainianCase" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.CountsWordsAndNormalizesLatinAndUkrainianCase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/15 Testing: TextAnalyzerTest.LoadsFileAndReplacesPreviousStatistics
+2/15 Test: TextAnalyzerTest.LoadsFileAndReplacesPreviousStatistics
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.LoadsFileAndReplacesPreviousStatistics" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.LoadsFileAndReplacesPreviousStatistics" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.LoadsFileAndReplacesPreviousStatistics
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.LoadsFileAndReplacesPreviousStatistics
+[       OK ] TextAnalyzerTest.LoadsFileAndReplacesPreviousStatistics (2 ms)
+[----------] 1 test from TextAnalyzerTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.LoadsFileAndReplacesPreviousStatistics" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.LoadsFileAndReplacesPreviousStatistics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/15 Testing: TextAnalyzerTest.MissingFileThrowsAndPreservesPreviousStatistics
+3/15 Test: TextAnalyzerTest.MissingFileThrowsAndPreservesPreviousStatistics
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.MissingFileThrowsAndPreservesPreviousStatistics" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.MissingFileThrowsAndPreservesPreviousStatistics" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.MissingFileThrowsAndPreservesPreviousStatistics
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.MissingFileThrowsAndPreservesPreviousStatistics
+[       OK ] TextAnalyzerTest.MissingFileThrowsAndPreservesPreviousStatistics (0 ms)
+[----------] 1 test from TextAnalyzerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.MissingFileThrowsAndPreservesPreviousStatistics" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.MissingFileThrowsAndPreservesPreviousStatistics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/15 Testing: TextAnalyzerTest.DirectoryReadFailurePreservesPreviousStatistics
+4/15 Test: TextAnalyzerTest.DirectoryReadFailurePreservesPreviousStatistics
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.DirectoryReadFailurePreservesPreviousStatistics" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.DirectoryReadFailurePreservesPreviousStatistics" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.DirectoryReadFailurePreservesPreviousStatistics
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.DirectoryReadFailurePreservesPreviousStatistics
+[       OK ] TextAnalyzerTest.DirectoryReadFailurePreservesPreviousStatistics (0 ms)
+[----------] 1 test from TextAnalyzerTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.DirectoryReadFailurePreservesPreviousStatistics" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.DirectoryReadFailurePreservesPreviousStatistics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/15 Testing: TextAnalyzerTest.InvalidUtf8PreservesPreviousStatistics
+5/15 Test: TextAnalyzerTest.InvalidUtf8PreservesPreviousStatistics
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.InvalidUtf8PreservesPreviousStatistics" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.InvalidUtf8PreservesPreviousStatistics" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.InvalidUtf8PreservesPreviousStatistics
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.InvalidUtf8PreservesPreviousStatistics
+[       OK ] TextAnalyzerTest.InvalidUtf8PreservesPreviousStatistics (0 ms)
+[----------] 1 test from TextAnalyzerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.InvalidUtf8PreservesPreviousStatistics" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.InvalidUtf8PreservesPreviousStatistics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/15 Testing: TextAnalyzerTest.EmptyTextIsValidButTopWordsReportsEmptySet
+6/15 Test: TextAnalyzerTest.EmptyTextIsValidButTopWordsReportsEmptySet
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.EmptyTextIsValidButTopWordsReportsEmptySet" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.EmptyTextIsValidButTopWordsReportsEmptySet" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.EmptyTextIsValidButTopWordsReportsEmptySet
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.EmptyTextIsValidButTopWordsReportsEmptySet
+[       OK ] TextAnalyzerTest.EmptyTextIsValidButTopWordsReportsEmptySet (0 ms)
+[----------] 1 test from TextAnalyzerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.EmptyTextIsValidButTopWordsReportsEmptySet" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.EmptyTextIsValidButTopWordsReportsEmptySet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/15 Testing: TextAnalyzerTest.TopWordsRejectsNonPositiveLimits
+7/15 Test: TextAnalyzerTest.TopWordsRejectsNonPositiveLimits
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.TopWordsRejectsNonPositiveLimits" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.TopWordsRejectsNonPositiveLimits" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.TopWordsRejectsNonPositiveLimits
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.TopWordsRejectsNonPositiveLimits
+[       OK ] TextAnalyzerTest.TopWordsRejectsNonPositiveLimits (0 ms)
+[----------] 1 test from TextAnalyzerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.TopWordsRejectsNonPositiveLimits" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.TopWordsRejectsNonPositiveLimits" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/15 Testing: TextAnalyzerTest.TopWordsAreFrequencyOrderedAndAlphabeticalOnTies
+8/15 Test: TextAnalyzerTest.TopWordsAreFrequencyOrderedAndAlphabeticalOnTies
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.TopWordsAreFrequencyOrderedAndAlphabeticalOnTies" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.TopWordsAreFrequencyOrderedAndAlphabeticalOnTies" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.TopWordsAreFrequencyOrderedAndAlphabeticalOnTies
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.TopWordsAreFrequencyOrderedAndAlphabeticalOnTies
+[       OK ] TextAnalyzerTest.TopWordsAreFrequencyOrderedAndAlphabeticalOnTies (0 ms)
+[----------] 1 test from TextAnalyzerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.TopWordsAreFrequencyOrderedAndAlphabeticalOnTies" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.TopWordsAreFrequencyOrderedAndAlphabeticalOnTies" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/15 Testing: TextAnalyzerTest.SearchRequiresExactlyOneWord
+9/15 Test: TextAnalyzerTest.SearchRequiresExactlyOneWord
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.SearchRequiresExactlyOneWord" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.SearchRequiresExactlyOneWord" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.SearchRequiresExactlyOneWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.SearchRequiresExactlyOneWord
+[       OK ] TextAnalyzerTest.SearchRequiresExactlyOneWord (0 ms)
+[----------] 1 test from TextAnalyzerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.SearchRequiresExactlyOneWord" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.SearchRequiresExactlyOneWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/15 Testing: TextAnalyzerTest.SearchForValidButUnknownWordReturnsZero
+10/15 Test: TextAnalyzerTest.SearchForValidButUnknownWordReturnsZero
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.SearchForValidButUnknownWordReturnsZero" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.SearchForValidButUnknownWordReturnsZero" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.SearchForValidButUnknownWordReturnsZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.SearchForValidButUnknownWordReturnsZero
+[       OK ] TextAnalyzerTest.SearchForValidButUnknownWordReturnsZero (0 ms)
+[----------] 1 test from TextAnalyzerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.SearchForValidButUnknownWordReturnsZero" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.SearchForValidButUnknownWordReturnsZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/15 Testing: TextAnalyzerTest.CopyAndMoveOperationsPreserveObjectInvariants
+11/15 Test: TextAnalyzerTest.CopyAndMoveOperationsPreserveObjectInvariants
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.CopyAndMoveOperationsPreserveObjectInvariants" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.CopyAndMoveOperationsPreserveObjectInvariants" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.CopyAndMoveOperationsPreserveObjectInvariants
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.CopyAndMoveOperationsPreserveObjectInvariants
+[       OK ] TextAnalyzerTest.CopyAndMoveOperationsPreserveObjectInvariants (0 ms)
+[----------] 1 test from TextAnalyzerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.CopyAndMoveOperationsPreserveObjectInvariants" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.CopyAndMoveOperationsPreserveObjectInvariants" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/15 Testing: TextAnalyzerTest.FileReadFailureLeavesAllStatisticsUnchanged
+12/15 Test: TextAnalyzerTest.FileReadFailureLeavesAllStatisticsUnchanged
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=TextAnalyzerTest.FileReadFailureLeavesAllStatisticsUnchanged" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"TextAnalyzerTest.FileReadFailureLeavesAllStatisticsUnchanged" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = TextAnalyzerTest.FileReadFailureLeavesAllStatisticsUnchanged
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TextAnalyzerTest
+[ RUN      ] TextAnalyzerTest.FileReadFailureLeavesAllStatisticsUnchanged
+[       OK ] TextAnalyzerTest.FileReadFailureLeavesAllStatisticsUnchanged (1 ms)
+[----------] 1 test from TextAnalyzerTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TextAnalyzerTest.FileReadFailureLeavesAllStatisticsUnchanged" end time: Nov 04 23:46 Գ������ (����)
+"TextAnalyzerTest.FileReadFailureLeavesAllStatisticsUnchanged" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/15 Testing: PolynomialSolverTest.EvaluatesDerivativeAndNewtonRoot
+13/15 Test: PolynomialSolverTest.EvaluatesDerivativeAndNewtonRoot
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=PolynomialSolverTest.EvaluatesDerivativeAndNewtonRoot" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"PolynomialSolverTest.EvaluatesDerivativeAndNewtonRoot" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = PolynomialSolverTest.EvaluatesDerivativeAndNewtonRoot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialSolverTest
+[ RUN      ] PolynomialSolverTest.EvaluatesDerivativeAndNewtonRoot
+[       OK ] PolynomialSolverTest.EvaluatesDerivativeAndNewtonRoot (0 ms)
+[----------] 1 test from PolynomialSolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialSolverTest.EvaluatesDerivativeAndNewtonRoot" end time: Nov 04 23:46 Գ������ (����)
+"PolynomialSolverTest.EvaluatesDerivativeAndNewtonRoot" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/15 Testing: PolynomialSolverTest.FindsRealRootsAndReportsRequiredCapacity
+14/15 Test: PolynomialSolverTest.FindsRealRootsAndReportsRequiredCapacity
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=PolynomialSolverTest.FindsRealRootsAndReportsRequiredCapacity" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"PolynomialSolverTest.FindsRealRootsAndReportsRequiredCapacity" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = PolynomialSolverTest.FindsRealRootsAndReportsRequiredCapacity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialSolverTest
+[ RUN      ] PolynomialSolverTest.FindsRealRootsAndReportsRequiredCapacity
+[       OK ] PolynomialSolverTest.FindsRealRootsAndReportsRequiredCapacity (0 ms)
+[----------] 1 test from PolynomialSolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialSolverTest.FindsRealRootsAndReportsRequiredCapacity" end time: Nov 04 23:46 Գ������ (����)
+"PolynomialSolverTest.FindsRealRootsAndReportsRequiredCapacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/15 Testing: PolynomialSolverTest.RejectsInvalidArgumentsWithoutCrossingCAbi
+15/15 Test: PolynomialSolverTest.RejectsInvalidArgumentsWithoutCrossingCAbi
+Command: "D:/Університет/інформатика/ТПП/ЛР 7/build-run/text_analyzer_tests.exe" "--gtest_filter=PolynomialSolverTest.RejectsInvalidArgumentsWithoutCrossingCAbi" "--gtest_also_run_disabled_tests"
+Directory: D:/Університет/інформатика/ТПП/ЛР 7/build-run
+"PolynomialSolverTest.RejectsInvalidArgumentsWithoutCrossingCAbi" start time: Nov 04 23:46 Գ������ (����)
+Output:
+----------------------------------------------------------
+Running main() from C:/vcpkg/buildtrees/gtest/src/v1.18.0-e6987f02b9.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = PolynomialSolverTest.RejectsInvalidArgumentsWithoutCrossingCAbi
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialSolverTest
+[ RUN      ] PolynomialSolverTest.RejectsInvalidArgumentsWithoutCrossingCAbi
+[       OK ] PolynomialSolverTest.RejectsInvalidArgumentsWithoutCrossingCAbi (0 ms)
+[----------] 1 test from PolynomialSolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialSolverTest.RejectsInvalidArgumentsWithoutCrossingCAbi" end time: Nov 04 23:46 Գ������ (����)
+"PolynomialSolverTest.RejectsInvalidArgumentsWithoutCrossingCAbi" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 04 23:46 Գ������ (����)
